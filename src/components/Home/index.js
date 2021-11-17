@@ -17,18 +17,18 @@ function Home() {
                 </div>
                 
                 <div className="home_row">
-                    <Product price={29.99} id={123} rating={5} title="The lean startup: How Constant Innocation Creates Radocally Succesful Businesses Paparback" image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"/>
-                    <Product price={249.99} id={143} rating={4} title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough hook and Whisk, 5 Litre Glass Bowl" image="https://cdn.akakce.com/kenwood/kenwood-kmx750ar-kmix-1000-w-5-lt-mutfak-sefi-hamur-z.jpg"/>
+                    <Product price={899.99} id={123} rating={5} title="Apple MacBook Air with Apple M1 Chip (13-inch, 8GB RAM, 256GB SSD Storage) - Silver (Latest Model)" image="https://i5.walmartimages.com/asr/049f4d39-0d3d-401b-bec4-7219b3719b46.5a77cd4f5ea0ac00c4b93c57914306f8.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"/>
+                    <Product price={99.99} id={145433} rating={4} title="Samsung Fresh44mmBlk SM-R870NZKAXAA tk3" image="https://i5.walmartimages.com/asr/eb46f4b0-d45c-4327-bb5c-f8c0c9b66532.cbfd385ca2480e63067dddc4117d5a53.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"/>
 
                 </div>
                 <div className="home_row">
-                    <Product price={199.99} id={354333} rating={2} title="Samsung c40 Pro Smart Watch " image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"/>
-                    <Product price={98.99} id={1445314}rating={1} title="Amazon Echo (3rd generation) | Smart speaker with Alexa,Charcoal Fabric" image="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6287/6287976_sd.jpg"/>
-                    <Product price={499.99} id={145433} rating={4} title="New Apple iPad Pro 12.9 inch Silver 4-th Generation" image="https://cdn.cimri.io/image/1000x1000/apple-ipad-pro-2020-129-256-gb_285766428.jpg"/>
+                    <Product price={19.99} id={354333} rating={2} title="Will Smith; Mark Manson Will (Hardcover)" image="https://i5.walmartimages.com/asr/2e7fda88-c010-4fe3-86f1-5164f0c67ad1.15711cc25cafa875c64bb24b04b617c7.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"/>
+                    <Product price={98.99} id={1445314}rating={1} title="Sony 55 Class XR55X90J Bravia XR Full Array LED 4K Ultra HD Smart Google TV with Dolby Vision HDR X90J Series 2021 Model" image="https://i5.walmartimages.com/asr/7c54db57-9e2a-453a-af1d-f9d2e8a26d0d.01b88abe49e1906952f9c8e6ee25cf85.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"/>
+                    <Product price={149.99} id={143} rating={4} title="Raspberry Pi - Raspberry Pi 3 Model B Motherboard" image="https://i5.walmartimages.com/asr/1642e8e6-76e0-42e4-a1eb-d6a62801286e_1.beb9d3fb972ff59504dbd79132314f1e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"/>
 
                 </div>
                 <div className="home_row">
-                    <Product price={1229.99} rating={5} title="Samsung LC244GADFSGSAFg32 49 inch LED Curved Gaming Monitor- Super Ultra Wide Dual WQFQW 5120 x 1440" image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYitScmX2A81ob7jwmU2XaCEk5O8oPEmrCEpqpR6iLbENLDJgdaNo0lLD-ScEoOUyyEHA&usqp=CAU"/>
+                    <Product price={1229.99} rating={5} title="Lifestyle Solutions - Lifestyle Solutions Harvard Sofa with Curved Arm" image="https://i5.walmartimages.com/asr/f6609221-826a-489b-a9ae-60de31d551e6_1.7d19993d93859bf128aa7658048b5b3a.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"/>
 
                 </div>
             </div>
